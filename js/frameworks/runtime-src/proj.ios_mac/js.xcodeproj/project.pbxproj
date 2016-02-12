@@ -368,7 +368,7 @@
 				LastUpgradeCheck = 0500;
 				TargetAttributes = {
 					A922753C1517C094001B78AA = {
-						DevelopmentTeam = MDDB52YB8L;
+						DevelopmentTeam = LNN652W6T6;
 					};
 				};
 			};
@@ -613,6 +613,7 @@
 				IPHONEOS_DEPLOYMENT_TARGET = 5.0;
 				LIBRARY_SEARCH_PATHS = " ../../../../cocos2d-x-3.6-lib/prebuilt/ios";
 				OTHER_LDFLAGS = "";
+				PRODUCT_BUNDLE_IDENTIFIER = com.sdkbox.jstest;
 				SDKROOT = iphoneos;
 				TARGETED_DEVICE_FAMILY = "1,2";
 				USER_HEADER_SEARCH_PATHS = "$(inherited) ../../../../cocos2d-x-3.6-lib/cocos ../../../../cocos2d-x-3.6-lib/cocos/platform/ios ../../../../cocos2d-x-3.6-lib/external/spidermonkey/include/ios ../../../../cocos2d-x-3.6-lib/plugin/jsbindings/auto ../../../../cocos2d-x-3.6-lib/plugin/jsbindings/manual ../../../../cocos2d-x-3.6-lib/external/curl/include/ios";
@@ -644,6 +645,7 @@
 				IPHONEOS_DEPLOYMENT_TARGET = 5.0;
 				LIBRARY_SEARCH_PATHS = " ../../../../cocos2d-x-3.6-lib/prebuilt/ios";
 				OTHER_LDFLAGS = "";
+				PRODUCT_BUNDLE_IDENTIFIER = com.sdkbox.jstest;
 				SDKROOT = iphoneos;
 				TARGETED_DEVICE_FAMILY = "1,2";
 				USER_HEADER_SEARCH_PATHS = "$(inherited) ../../../../cocos2d-x-3.6-lib/cocos ../../../../cocos2d-x-3.6-lib/cocos/platform/ios ../../../../cocos2d-x-3.6-lib/external/spidermonkey/include/ios ../../../../cocos2d-x-3.6-lib/plugin/jsbindings/auto ../../../../cocos2d-x-3.6-lib/plugin/jsbindings/manual ../../../../cocos2d-x-3.6-lib/external/curl/include/ios";
