@@ -1,1 +1,0 @@
-# sdkbox-sample-template
