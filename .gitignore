@@ -32,3 +32,4 @@ lua/frameworks/runtime-src/proj.android/obj/
 lua/frameworks/runtime-src/proj.ios_mac/lua.xcodeproj/project.xcworkspace/
 lua/frameworks/runtime-src/proj.ios_mac/lua.xcodeproj/xcuserdata/
 lua/simulator/
+*.zip
