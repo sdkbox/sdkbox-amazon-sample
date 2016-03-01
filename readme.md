@@ -12,7 +12,16 @@ This is a sample project for SDKBOX xxxxxx plugin
 
 ## Build
 * Compile and run iOS/Android samples using `cocos compile -p ios` or `cocos compile -p android`.
-* (iOS only) Open `cpp/proj.ios_mac/cpp.xcodeproj`, `js/frameworks/runtime-src/proj.ios_mac/js.xcodeproj`, or `lua/frameworks/runtime-src/proj.ios_mac/lua.xcodeproj` in xcode, compile and run. 
+* (iOS only) Open `cpp/proj.ios_mac/cpp.xcodeproj`, `js/frameworks/runtime-src/proj.ios_mac/js.xcodeproj`, or `lua/frameworks/runtime-src/proj.ios_mac/lua.xcodeproj` in xcode, compile and run.
 
+## Requirements
 
+* Amazon Kindle Fire device
+* Installer App Tester
+* Obtaining a JSON Data File
 
+    ```
+    $ adb push [Your_JSON_File_Folder]/amazon.sdktester.json /mnt/sdcard/
+    ```
+
+Here is more information: [https://developer.amazon.com/public/apis/earn/in-app-purchasing/docs-v2/installing-and-configuring-app-tester](https://developer.amazon.com/public/apis/earn/in-app-purchasing/docs-v2/installing-and-configuring-app-tester)
