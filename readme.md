@@ -17,7 +17,7 @@ This is a sample project for SDKBOX xxxxxx plugin
 ## Requirements
 
 1. Amazon Kindle Fire device
-2. Install [App Tester](http://www.amazon.com/Amazon-App-Tester/dp/B00BN3YZM2/ref=sr_1_1?ie=UTF8&qid=1456971495&sr=8-1&keywords=app+tester)
+2. Install [Amazon App Tester](http://www.amazon.com/Amazon-App-Tester/dp/B00BN3YZM2/) app
 3. Upload a JSON Data File to device
 
     ```
@@ -38,7 +38,7 @@ Here is more information:
 
 ## 前提
 1. Amazon Kindle Fire 设备
-2. 安装 [Amazon App Tester](http://www.amazon.com/Amazon-App-Tester/dp/B00BN3YZM2/ref=sr_1_1?ie=UTF8&qid=1456971495&sr=8-1&keywords=app+tester) 应用
+2. 安装 [Amazon App Tester](http://www.amazon.com/Amazon-App-Tester/dp/B00BN3YZM2/) 应用
 3. 把 json 文件上传到设备上
 
     ```
