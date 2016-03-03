@@ -24,7 +24,11 @@ This is a sample project for SDKBOX xxxxxx plugin
     $ adb push [Your_JSON_File_Folder]/amazon.sdktester.json /mnt/sdcard/
     ```
 
-Here is more information: [https://developer.amazon.com/public/apis/earn/in-app-purchasing/docs-v2/installing-and-configuring-app-tester](https://developer.amazon.com/public/apis/earn/in-app-purchasing/docs-v2/installing-and-configuring-app-tester)
+Here is more information:
+
+- [https://developer.amazon.com/public/apis/earn/in-app-purchasing](https://developer.amazon.com/public/apis/earn/in-app-purchasing)
+- [https://developer.amazon.com/public/apis/earn/in-app-purchasing/docs-v2/installing-and-configuring-app-tester](https://developer.amazon.com/public/apis/earn/in-app-purchasing/docs-v2/installing-and-configuring-app-tester)
+
 
 ----
 
