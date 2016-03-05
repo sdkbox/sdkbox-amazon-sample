@@ -1,6 +1,6 @@
-# SDKBOX Plugin Sample with cocos framework 3.6
+# Amazon Appstore Sample with cocos framework 3.6
 
-This is a sample project for SDKBOX xxxxxx plugin
+This is a sample project for SDKBOX Amazon Appstore
 
 * `cpp` contains sample for cocos2d-x c++ sample project
 * `js` contains sample for cocos2d-x js sample project
